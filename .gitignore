@@ -1,0 +1,19 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+.gitignore.rtf
+BDRX. July 12 Bangla Typedzip
+BDRX Jul 12 No error (map authenticated).zip
+BDRX July 12 Checkout page working.zip
