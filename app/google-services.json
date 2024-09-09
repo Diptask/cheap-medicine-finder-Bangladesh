@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "410824820769",
+    "project_id": "bd-rx-8fe8e",
+    "storage_bucket": "bd-rx-8fe8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410824820769:android:33a771ae35bb630d5f7b60",
+        "android_client_info": {
+          "package_name": "com.dipta.bdrx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtibuUSmiWLqiG2hYp47Lu2WIQD8CQIKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
